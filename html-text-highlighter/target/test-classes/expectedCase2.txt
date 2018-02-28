@@ -1,0 +1,7 @@
+\color[FF0000]<HTML>
+\color[FFFF00]<HEAD>\color[008000]<TITLE>Welcome to Capital One highlighter test</TITLE>\color[FFFF00]</HEAD>
+\color[40E0D0]<BODY>
+\color[006400]<H1>Welcome to Capital One</H1>
+\color[A9A9A9]<P>\color[0000FF]<A HREF="http://tech.capitalone.ca">Visit Our Blog</A>\color[A9A9A9]</P>
+\color[40E0D0]</BODY>
+\color[FF0000]</HTML>

@@ -1,0 +1,12 @@
+\color[FF0000]<html>
+\color[FFFF00]<head>
+\color[008000]<title>HTML highlight test page</title>
+\color[FFFF00]</head>
+\color[40E0D0]<body>
+This is text in the body.
+\color[FFC0CB]<br>
+\color[006400]<h1>This is a heading</h1>
+\color[A9A9A9]<p>This is the first paragraph.</p>\color[40E0D0] There is some text between the heading and paragraph. \color[A9A9A9]<p>This is the second paragraph.</p>
+\color[40E0D0]There is more text in the body after the paragraph.
+</body>
+\color[FF0000]</html>

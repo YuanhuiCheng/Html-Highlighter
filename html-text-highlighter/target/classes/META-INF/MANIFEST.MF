@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: yuanhuicheng
+Class-Path: lib/commons-cli-1.4.jar lib/log4j-api-2.10.0.jar lib/log4j
+ -core-2.10.0.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: ca.interview.capitalone.htmlhighlighter.Builder
+
