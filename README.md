@@ -1,4 +1,4 @@
-# Html_Highlighter
+# Html-Highlighter
 This project offers a fancy solution to an interview technical challenge (highlight the 
 html tags by the order of enclosure) provided by some financial institution (sorry, I cannot say its name here). 
 
